@@ -30,7 +30,7 @@ header .nav-container {
     display: flex;
     justify-content: space-around;
     padding: 20px;
-    font: 9px;
+    font: 19px;
 }
 
 header .nav-primary {
